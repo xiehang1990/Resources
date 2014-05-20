@@ -1,0 +1,9 @@
+中文描述,项目ID,贴图高度,贴图宽度,武器类型,子弹名（ID）,攻击类型,武器范围,起手范围,是否范围攻击,范围攻击范围,移动速度,总等待帧数,总移动帧数,总攻击帧数,攻击判定帧,总攻击CD帧数,总技能帧数,技能判定帧,总眩晕帧,总死亡帧数,总换层帧数,换层前帧数,换层执行过程帧数,换层后帧数,基础缩放倍数,攻击种类
+itemName,itemID,textureHeight,textureWidth,weaponStyle,bulletName,attackStyle,weaponRange,attackRange,area,areaRange,moveSpeed,totalWaitFrame,totalMoveFrame,totalAttackFrame,attackAccomplish,totalAttackCDFrame,totalSkillFrame,skillAccomplish,totalStunFrame,totalDieFrame,totalShiftFrame,shiftBefore,shiftExecute,shiftAfter,baseScale,attackKinds
+string,title,number,number,string,string,string,number,number,bool,number,number,number,number,number,number,number,number,number,number,number,number,number,number,number,number,number
+牛魔王,NiuMoWang,120,180,short,,physical,90,90,TRUE,100,5,10,10,50,26,40,10,60,40,0,30,5,20,5,-1.2,2
+铁扇公主,Tieshan,120,86,long,bulletType1,physical,243,243,FALSE,0,5,10,10,30,1,40,60,40,10,0,30,5,20,5,1.15,1
+红孩儿,Honghaier,120,120,short,,physical,60,60,FALSE,0,5,10,10,40,20,5,60,40,10,0,30,5,20,5,1,2
+清风,QingFeng,120,120,short,,physical,60,60,FALSE,0,5,10,10,60,38,5,60,40,10,0,30,5,20,5,-1,2
+百花,Baihua,120,86,long,bulletType1,physical,243,243,FALSE,0,5,10,10,30,20,40,60,40,10,0,30,5,20,5,0.7,1
+啰啰,luoluo2,120,140,short,,physical,40,40,TRUE,100,5,10,10,16,10,4,60,40,10,0,30,12,46,16,9,2
